@@ -1,3 +1,5 @@
+> **Archived:** Due to Canonical's Snap Store policy requiring manual review of crypto-related snaps, this snap is no longer published or maintained.
+
 # XMRig
 
 [![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/xmrig/xmrig/releases)
